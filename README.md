@@ -4,7 +4,7 @@
 
 This project contains a solution to the first solution of udacity Deep Reinforcement Learning nanodegree, which trains an agent to navigate (and collect bananas!) in a large, square world.  
 
-![Image of Agent playing](https://github.com/wljjlu/p1_navigation/tree/master/images/play.gif)
+![Image of Agent playing](images/play.gif)
 
 ### Environment details
 
@@ -32,4 +32,4 @@ The task is episodic, and in order to solve the environment, the agent should ge
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to learn how to use the Python API to control the agent.  
+Follow the instructions in `Navigation.ipynb` and run each cell.  
