@@ -7,8 +7,8 @@ In this project, the learning algorithm of deep Q-networks has been implemented 
 ### Neural Network Architecture
 
 - Input Layer: 37
-- Fully connected Layer 1: 64 (with relu as activation)
-- Fully connected Layer 2: 64 (with relu as activation)
+- Fully connected Layer 1: 64 (with relu as activation function)
+- Fully connected Layer 2: 64 (with relu as activation function)
 - Output Layer: 4
 
 ### Hyper-parameters
