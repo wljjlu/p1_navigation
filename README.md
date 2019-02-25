@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project contains a solution to the first solution of udacity Deep Reinforcement Learning nanodegree, which trains an agent to navigate (and collect bananas!) in a large, square world.  
+This project contains a solution to the first project of udacity Deep-Reinforcement-Learning nano-degree, which trains an agent to navigate and collect bananas in a large, square world.  
 
 ![Image of Agent playing](images/play.gif)
 
