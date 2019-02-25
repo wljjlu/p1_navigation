@@ -29,4 +29,4 @@ Vanilla DQN solved the problem in 600 episodes.
 ## Future Improvement
 
 - Fine tuning hyper parameters to get better performance
-- Implement Deep Q-Learning such as using Double DQN, Prioritized Experience Replay and Dueling DQN
+- Improve Deep Q-Learning such as using Double DQN, Prioritized Experience Replay and Dueling DQN
