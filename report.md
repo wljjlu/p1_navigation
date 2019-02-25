@@ -22,7 +22,7 @@ In this project, the learning algorithm of deep Q-networks has been implemented 
 
 ### Plot of Rewards
 
-![Vanilla DQN Scores][images/play.gif]
+![Vanilla DQN Scores](images/scorespng.png)
 
 Vanilla DQN solved the problem in 600 episodes.
 
